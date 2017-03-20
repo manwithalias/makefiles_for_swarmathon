@@ -10,4 +10,4 @@ These makefiles allow you to quickly download code from github, compile it, run 
 
 They provide improvements to speed up communication between you and the rovers for faster development.
 
-Just copy them into your rover_workspace, fill in required variable info at the top of the files, type make on the commandline in linux, and you will get further instructions.
+Just copy both makefile and Makefile into your rover_workspace on your laptop, fill in required variable info at the top of each file, cd to the rover_workspace folder, type 'make' on the commandline in linux, and you will get further instructions.
